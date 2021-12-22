@@ -42,4 +42,12 @@ The only time savings was marginal at best with the 2018 dataset.  However, as t
 
 ### ADVANTAGES/DISADVANTAGES OF REFACTORING CODE
 
+Code refactoring is the process of restructuring exisitng computer code without changing its external behavior.  
+
+Advantages is a cleaner and more readable code.  This can aid in faster and more accurate running of the program.  This readability allows users, other than the creator, to understand the intent and purpose of the script.  Furthermore, we can garner patterns in the design of the code and make judgments as to continuing the design or making improvements throughout the entire script.
+
+Disadvantages can come in several forms of time.  It can simply be a time constraint to perform refactoring on existing code.  If another project awaits, "it's working well for now" is a common slogan to keep moving forward and not look back.  Also, cost benefit of this time.  If a set of code is small or performs a limited function within a set of acceptable time limits, refactoring would more than likely not be beneficial.
+
 ### ADVANTAGES/DISADVANTAGES OF STOCK ANALYSIS CODE
+
+
