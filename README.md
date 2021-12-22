@@ -50,4 +50,10 @@ Disadvantages can come in several forms of time.  It can simply be a time constr
 
 ### ADVANTAGES/DISADVANTAGES OF STOCK ANALYSIS CODE
 
+Advantages of refactoring the Stock Analysis project range in two items - run time and clarity.  The run time was non-existent in the 2017 versions, however, there was cloes to 1/100 of second of improvement in 2018.  Though small at this level, if the project was to start running for stocks in the numbers of 10,000's, the amount of time can start to add up to something more meaningful.
 
+Clarity of the code for refactoring, brings the previous six subroutines into one more cohesive item to read and view.  What spanned many more pages and loops, now is more concise.
+
+The disadvantages of refactoring go back to time.  The size of this project results and script would not warrant the cost of time to redo, other than a learning venture or policy change on how script should look.  The time saved is still 1/100 of a second, but even scaling, it might be at best 1-3 seconds difference in runtime.
+
+Debugging can also be a disadvantage to the refactoring used.  In the inital setup with six subroutines, debugging each routine kept the items needed to search and fix isolated.  In the one subroutine, it might take more time to find where the issue is in the entire string.
