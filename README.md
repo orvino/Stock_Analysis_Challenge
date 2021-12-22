@@ -31,11 +31,9 @@ From our first project, we created six subroutines to formulate, format, and out
 <img width="267" alt="Original 2017" src="https://user-images.githubusercontent.com/91889241/147024511-3849a4e2-8399-488b-ab5f-011857403602.png">
 <img width="257" alt="Original 2018" src="https://user-images.githubusercontent.com/91889241/147024517-e67f7f9c-1183-4123-9d87-04e60bd27909.png">
 
-
-
 After eliminating all extraneous subroutines down to one subroutine, the time results are:
 
 <img width="251" alt="Refactored 2017 results" src="https://user-images.githubusercontent.com/91889241/147023863-4305dd8c-c13a-4fe0-bb4d-ef31b395752d.png">
 <img width="262" alt="Refactored 2018 results" src="https://user-images.githubusercontent.com/91889241/147023865-5094a835-a9f1-4192-9d06-bfbf2d6ed921.png">
 
-For a 
+The only time savings was marginal at best with the 2018 dataset.  However, as the data set gets larger, the fewer subroutines should see exponentially lower run times.
