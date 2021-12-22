@@ -13,4 +13,6 @@ The purpose of the project is to take what we had previously done to for Steve a
 
 ### Analysis
 Here are the results for 2017 and 2018 for the twelve stocks selected:
+<img width="239" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/91889241/147021968-33c76d56-f7fc-4b8c-b4a9-d2172f2ced8c.png">
+<img width="234" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/91889241/147021980-e5a97b06-1ac6-41fc-9781-bde7dc102f9a.png">
 
