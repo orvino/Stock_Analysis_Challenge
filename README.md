@@ -17,7 +17,7 @@ Here are the results for 2017 and 2018 for the twelve stocks selected:
 <img width="239" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/91889241/147021968-33c76d56-f7fc-4b8c-b4a9-d2172f2ced8c.png">
 <img width="234" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/91889241/147021980-e5a97b06-1ac6-41fc-9781-bde7dc102f9a.png">
 
-These images show only one stock, RUN, increased its return in 2018 from 2017.  All the other stocks took a massive hit into negative returns, other than ENPH.  ENPH still remained as a positive return in 2018, however, less than in the previous year.  We can also the effect of returns ahd slowdown in daily volume amongst most of the stock downturns, with a few exceptions, TER and VSLR.
+These images show only one stock, RUN, increased its return in 2018 from 2017.  All the other stocks took a massive hit into negative returns, other than ENPH.  ENPH still remained as a positive return in 2018, however, less than in the previous year.  We can also see the effect of returns and slowdowns in daily volume amongst most of the stock downturns, with a few exceptions, TER and VSLR.
 
 ### Code
 We only used twelve stocks for this example and hard coded them into our VBA.
@@ -26,3 +26,14 @@ We only used twelve stocks for this example and hard coded them into our VBA.
 
 If we to make any changes to these stock choices or selections, we would have to return and change the values or add them and increase our string count.  This was a limitation of the data set and what we were trying to accomplish.
 
+From our first project, we created six subroutines to formulate, format, and output our results.  This takes additional time for VBA to run.  See the results below for the first project run time;
+
+<img width="251" alt="original 2017 results" src="https://user-images.githubusercontent.com/91889241/147023696-94fca5fd-5360-40c8-bb13-9aa168ce33d3.png">
+<img width="257" alt="original 2018 results" src="https://user-images.githubusercontent.com/91889241/147023712-f8546f77-fe33-4568-a9c8-a5470a69f590.png">
+
+After eliminating all extraneous subroutines down to one subroutine, the time results are:
+
+<img width="251" alt="Refactored 2017 results" src="https://user-images.githubusercontent.com/91889241/147023863-4305dd8c-c13a-4fe0-bb4d-ef31b395752d.png">
+<img width="262" alt="Refactored 2018 results" src="https://user-images.githubusercontent.com/91889241/147023865-5094a835-a9f1-4192-9d06-bfbf2d6ed921.png">
+
+For a 
