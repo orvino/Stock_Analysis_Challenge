@@ -12,4 +12,5 @@ The purpose of the project is to take what we had previously done to for Steve a
 ## Results
 
 ### Analysis
+Here are the results for 2017 and 2018 for the twelve stocks selected:
 
