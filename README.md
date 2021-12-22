@@ -28,8 +28,10 @@ If we to make any changes to these stock choices or selections, we would have to
 
 From our first project, we created six subroutines to formulate, format, and output our results.  This takes additional time for VBA to run.  See the results below for the first project run time;
 
-<img width="251" alt="original 2017 results" src="https://user-images.githubusercontent.com/91889241/147023696-94fca5fd-5360-40c8-bb13-9aa168ce33d3.png">
-<img width="257" alt="original 2018 results" src="https://user-images.githubusercontent.com/91889241/147023712-f8546f77-fe33-4568-a9c8-a5470a69f590.png">
+<img width="267" alt="Original 2017" src="https://user-images.githubusercontent.com/91889241/147024511-3849a4e2-8399-488b-ab5f-011857403602.png">
+<img width="257" alt="Original 2018" src="https://user-images.githubusercontent.com/91889241/147024517-e67f7f9c-1183-4123-9d87-04e60bd27909.png">
+
+
 
 After eliminating all extraneous subroutines down to one subroutine, the time results are:
 
