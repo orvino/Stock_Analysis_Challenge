@@ -56,4 +56,4 @@ Clarity of the code for refactoring, brings the previous six subroutines into on
 
 The disadvantages of refactoring go back to time.  The size of this project results and script would not warrant the cost of time to redo, other than a learning venture or policy change on how script should look.  The time saved is still 1/100 of a second, but even scaling, it might be at best 1-3 seconds difference in runtime.
 
-Debugging can also be a disadvantage to the refactoring used.  In the inital setup with six subroutines, debugging each routine kept the items needed to search and fix isolated.  In the one subroutine, it might take more time to find where the issue is in the entire string.
+Debugging can also be a disadvantage to the refactoring used.  In the inital setup with six subroutines, debugging each routine kept the items needed to search and isolated to aid in fixing a particular section.  In the one subroutine, it might take more time to find where the issue is in the entire string.
